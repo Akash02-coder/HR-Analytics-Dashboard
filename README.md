@@ -30,7 +30,8 @@ The dataset was cleaned and prepared using the following steps :
 
 ## Screenshots
 ### HR Dashboard Overview
-![HR Attrition Dashboard]
+![alt txt](https://github.com/Akash02-coder/HR-Analytics-Dashboard/blob/3c997f7a3391292a13870d0b29f02d3b15418064/hr%20analytics%20dashboard.png)
+## Overview
 
 ### Tools Used
 Power BI: For creating interactive visualizations and dashboards.
