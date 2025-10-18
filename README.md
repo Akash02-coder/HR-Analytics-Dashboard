@@ -30,7 +30,7 @@ The dataset was cleaned and prepared using the following steps :
 
 ## Screenshots
 ### HR Dashboard Overview
-![alt txt](https://github.com/Akash02-coder/HR-Analytics-Dashboard/blob/3c997f7a3391292a13870d0b29f02d3b15418064/hr%20analytics%20dashboard.png)
+![alt txt](https://github.com/Akash02-coder/HR-Analytics-Dashboard/blob/ca48e8206ae8f1c47926178b4def43f7fe067637/hr%20analytics%20dashboard.png)
 ## Overview
 
 ### Tools Used
